@@ -57,4 +57,4 @@ The class **Main** has a main method which, when executed, should lead to an int
 # Remarks and Notation
 * If a user buys the same product twice, these instances should be considered as buying different products.
 * The program should terminate with IllegalArgumentException if the user chooses both the discount and the offer Buy2Take3, since Buy2Take3 products can not be discounted.
-* Method getPrice requires cart as parameter, since in the subclasses the price of a product may depend on other products in the cart. Think what happens for objects of type Buy2Take3
+* Method getPrice requires cart as parameter, since in the subclasses the price of a product may depend on other products in the cart. Think what happens for objects of type Buy2Take3# BeratYildirim-HW2
